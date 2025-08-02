@@ -1,0 +1,17 @@
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit + audio
+*.mp3
+*.wav
+*.ogg
+
+# OS metadata
+.DS_Store
+Thumbs.db
